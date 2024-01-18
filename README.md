@@ -27,20 +27,20 @@ Linked the chatbot with the restaurant's knowledge base to provide accurate and 
 https://white-moss-073a51610.4.azurestaticapps.net
 
 
-![Screenshot (36)](https://github.com/vandanac20/FRTproject/assets/112802256/06955b8f-3db5-4ccd-9b6c-512b3be7f320)
-![Screenshot (37)](https://github.com/vandanac20/FRTproject/assets/112802256/5c612483-1ba1-4538-ac2f-a6f20b74c70d)
-![Screenshot (38)](https://github.com/vandanac20/FRTproject/assets/112802256/fef1386a-42be-4776-88df-8e815be339c1)
-![Screenshot (39)](https://github.com/vandanac20/FRTproject/assets/112802256/92f187d2-45ff-4b2e-82e2-5af19f409916)
-![Screenshot (40)](https://github.com/vandanac20/FRTproject/assets/112802256/f888e60d-3382-4302-8436-fb56ee2d9554)
-![Screenshot (52)](https://github.com/vandanac20/FRTproject/assets/112802256/f92d7d2e-e052-42df-b280-9d9a367136be)
-![Screenshot (42)](https://github.com/vandanac20/FRTproject/assets/112802256/90bbb469-80a4-42d5-aaa8-ed2619ee28f8)
-![Screenshot (49)](https://github.com/vandanac20/FRTproject/assets/112802256/2d520f27-8a2e-49e6-b488-d83f833e5e04)
-this is where I have used my app service. Once you click book a table it will take u to this website.
-![Screenshot (50)](https://github.com/vandanac20/FRTproject/assets/112802256/01b9adf1-65b5-4cfe-91fd-a60aa0ac2552)
-![Screenshot (51)](https://github.com/vandanac20/FRTproject/assets/112802256/815795b6-f6bf-47cd-8e4d-06169d9b142b)
-this is the azure ai service that is AI Bot as help center.
-![Screenshot (43)](https://github.com/vandanac20/FRTproject/assets/112802256/e0355d18-69fd-41cd-9a6f-89345ec26934)
+![Screenshot (32)](https://github.com/yashshah5306/delight-frt/assets/154916099/2159d341-a503-451b-9c52-c9c05a803624)
+![Screenshot (33)](https://github.com/yashshah5306/delight-frt/assets/154916099/22dbe0ca-e51b-4463-8628-198ffadfe6b7)
+![Screenshot (34)](https://github.com/yashshah5306/delight-frt/assets/154916099/b9e32fdf-ac10-404f-ad97-0c869f5d27f7)
+![Screenshot (35)](https://github.com/yashshah5306/delight-frt/assets/154916099/12e77492-69f5-4fa8-9b84-43a69fb5ab93)
+![Screenshot (36)](https://github.com/yashshah5306/delight-frt/assets/154916099/1c53bfd3-a5cd-4623-8329-2dc19d889666)
+![Screenshot (37)](https://github.com/yashshah5306/delight-frt/assets/154916099/8e7fdca9-d858-4a53-bfd8-22f44c4b1a09)
 
+#this is where I have used my app service. Once you click book a table it will take u to this website.
 
+![Screenshot (42)](https://github.com/yashshah5306/delight-frt/assets/154916099/6b5d9118-192a-43a8-9bce-879ffbb28d7f)
+![Screenshot (43)](https://github.com/yashshah5306/delight-frt/assets/154916099/90d67976-b1d0-46f1-875c-0545987af637)
 
+#this is the azure ai service that is AI Bot as help center.
 
+![Screenshot (44)](https://github.com/yashshah5306/delight-frt/assets/154916099/e8c3f5a3-0d5f-4d09-81c1-026cfbe868ca)
+![Screenshot (45)](https://github.com/yashshah5306/delight-frt/assets/154916099/5968d5db-72d6-4328-a3a6-b5e69e0832cb)
+![Screenshot (46)](https://github.com/yashshah5306/delight-frt/assets/154916099/c197ad1a-ea81-4de5-ba18-24b8f80c5637)
