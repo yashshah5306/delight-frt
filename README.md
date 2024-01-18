@@ -1,6 +1,7 @@
 # Future Ready Talent Project
 # Azure Link:
-https://ashy-bush-0ecbb5710.4.azurestaticapps.net/
+https://white-moss-073a51610.4.azurestaticapps.net
+
 # Project Title :
 AI-Enhanced Restaurant Website
 # Problem Statement:
