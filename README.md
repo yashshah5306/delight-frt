@@ -24,7 +24,8 @@ Azure Bot Services:
 Created an intelligent chatbot using Azure Bot Services to facilitate seamless communication.
 Linked the chatbot with the restaurant's knowledge base to provide accurate and context-aware responses.
 # Github Deployement URL:
-https://vandanac20.github.io/FRTproject/
+https://white-moss-073a51610.4.azurestaticapps.net
+
 
 ![Screenshot (36)](https://github.com/vandanac20/FRTproject/assets/112802256/06955b8f-3db5-4ccd-9b6c-512b3be7f320)
 ![Screenshot (37)](https://github.com/vandanac20/FRTproject/assets/112802256/5c612483-1ba1-4538-ac2f-a6f20b74c70d)
