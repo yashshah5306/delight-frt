@@ -2,6 +2,8 @@
 # Azure Link:
 https://white-moss-073a51610.4.azurestaticapps.net
 
+#Technology: HTML,CSS,JAVASCRIPT
+
 # Project Title :
 AI-Enhanced Restaurant Website
 # Problem Statement:
