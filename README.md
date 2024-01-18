@@ -28,21 +28,24 @@ Linked the chatbot with the restaurant's knowledge base to provide accurate and 
 # Github Deployement URL:
 https://white-moss-073a51610.4.azurestaticapps.net
 
+![Screenshot (32)](https://github.com/yashshah5306/delight-frt/assets/154916099/65790d84-38ea-4fd0-a57e-5485820abd34)
+![Screenshot (33)](https://github.com/yashshah5306/delight-frt/assets/154916099/2557d510-faf5-468b-a9fe-02238b5aa47b)
+![Screenshot (34)](https://github.com/yashshah5306/delight-frt/assets/154916099/5cae2972-0f5f-4efd-b8fc-518a3ed4a438)
+![Screenshot (35)](https://github.com/yashshah5306/delight-frt/assets/154916099/fff26f66-b362-4577-a577-6c35fcf59704)
+![Screenshot (36)](https://github.com/yashshah5306/delight-frt/assets/154916099/16c57ff6-a158-459e-85b0-d827a0e9f545)
+![Screenshot (37)](https://github.com/yashshah5306/delight-frt/assets/154916099/e0bfc223-fb96-459e-88f0-acfa0f1c7685)
 
-![Screenshot (32)](https://github.com/yashshah5306/delight-frt/assets/154916099/2159d341-a503-451b-9c52-c9c05a803624)
-![Screenshot (33)](https://github.com/yashshah5306/delight-frt/assets/154916099/22dbe0ca-e51b-4463-8628-198ffadfe6b7)
-![Screenshot (34)](https://github.com/yashshah5306/delight-frt/assets/154916099/b9e32fdf-ac10-404f-ad97-0c869f5d27f7)
-![Screenshot (35)](https://github.com/yashshah5306/delight-frt/assets/154916099/12e77492-69f5-4fa8-9b84-43a69fb5ab93)
-![Screenshot (36)](https://github.com/yashshah5306/delight-frt/assets/154916099/1c53bfd3-a5cd-4623-8329-2dc19d889666)
-![Screenshot (37)](https://github.com/yashshah5306/delight-frt/assets/154916099/8e7fdca9-d858-4a53-bfd8-22f44c4b1a09)
 
 #this is where I have used my app service. Once you click book a table it will take u to this website.
 
-![Screenshot (42)](https://github.com/yashshah5306/delight-frt/assets/154916099/6b5d9118-192a-43a8-9bce-879ffbb28d7f)
-![Screenshot (43)](https://github.com/yashshah5306/delight-frt/assets/154916099/90d67976-b1d0-46f1-875c-0545987af637)
+![Screenshot (38)](https://github.com/yashshah5306/delight-frt/assets/154916099/26e6efe2-b43e-4edf-8603-9f50fee061a2)
+![Screenshot (42)](https://github.com/yashshah5306/delight-frt/assets/154916099/6d42c9fc-446a-4b3e-837c-66abae83f7ca)
+![Screenshot (43)](https://github.com/yashshah5306/delight-frt/assets/154916099/50ecb464-8f41-4e82-b616-1f5ec94a9987)
 
 #this is the azure ai service that is AI Bot as help center.
 
-![Screenshot (44)](https://github.com/yashshah5306/delight-frt/assets/154916099/e8c3f5a3-0d5f-4d09-81c1-026cfbe868ca)
-![Screenshot (45)](https://github.com/yashshah5306/delight-frt/assets/154916099/5968d5db-72d6-4328-a3a6-b5e69e0832cb)
-![Screenshot (46)](https://github.com/yashshah5306/delight-frt/assets/154916099/c197ad1a-ea81-4de5-ba18-24b8f80c5637)
+![Screenshot (39)](https://github.com/yashshah5306/delight-frt/assets/154916099/84e9888a-d708-4619-804b-668242e9f423)
+![Screenshot (40)](https://github.com/yashshah5306/delight-frt/assets/154916099/70c2ebf0-243a-446f-9617-f1959bbd5241)
+
+![Screenshot (44)](https://github.com/yashshah5306/delight-frt/assets/154916099/b3c8f738-8ef9-4dc2-828f-819d085b985f)
+
